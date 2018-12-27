@@ -1,0 +1,37 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+}
+
+#container{
+	background-color: #242933;
+	margin-left: auto;
+	margin-right: auto;
+	height: 600px;
+	border-radius: 15px;
+}
+
+#logo{
+	float: left;
+	padding-top: 9px;
+	padding-left: 12px;
+	padding-right: 12px; 
+}
+
+#top-bar-menu{
+	padding-top: 37px;
+	float: left;
+	padding-left: 2px;
+	padding-right: 2px; 
+}
+
+.top-option{
+	float: left;
+	padding-left: 2px;
+	padding-right: 2px;
+	border-left: 2px dotted #4d525b;
+}
+
+a:link,a:visited,a:hover,a:active{
+	color: white;
+}
